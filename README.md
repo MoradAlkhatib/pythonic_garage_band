@@ -1,6 +1,7 @@
-https://github.com/MoradAlkhatib/pythonic_garage_band/pull/1
-
-
+pythonic-garage-band
+training on class and object and method abstract 
+method and solved the testing 
 
 training on class and object and method abstract 
 method and solved the testing 
+
